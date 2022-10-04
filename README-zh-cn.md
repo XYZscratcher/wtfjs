@@ -131,7 +131,8 @@ $ npm install -g wtfjs
 
 > 只是因为好玩
 >
-> &mdash; _[**“只是为了好玩：一个意外革命的故事”**](https://en.m.wikipedia.org/wiki/Just_for_Fun), Linus Torvalds_
+> 
+> —— _[**“只是为了好玩：一个意外革命的故事”**](https://en.m.wikipedia.org/wiki/Just_for_Fun), Linus Torvalds_
 
 这个列表的主要目的是收集一些疯狂的例子，并尽可能解释它们的原理。我很喜欢学习以前不了解的东西。
 
@@ -141,7 +142,7 @@ $ npm install -g wtfjs
 
 总之，古人云：三人行，必有我师焉。我相信这些例子总能让你学习到新的知识。
 
-> **⚠️ Note:** 如果这些例子帮助到你，请[务必赞助收集了这些例子的作者](#-supporting).
+> **⚠️ Note:** 如果这些例子帮助到你，请[务必赞助收集了这些例子的作者](#-捐赠支持).
 
 # ✍🏻 符号
 
